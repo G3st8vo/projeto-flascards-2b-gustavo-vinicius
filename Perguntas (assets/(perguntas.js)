@@ -1,0 +1,60 @@
+// 10 flashcards sobre treino de academia
+criaCartao(
+    'Exercícios',
+    'Qual é o melhor exercício para desenvolver o peitoral?',
+    'O supino reto com barra é considerado um dos melhores exercícios para desenvolver a porção média do peitoral.'
+);
+
+criaCartao(
+    'Nutrição',
+    'Quantos gramas de proteína por kg são recomendados para quem treina musculação?',
+    'Recomenda-se entre 1,6g e 2,2g de proteína por kg de peso corporal para otimizar a hipertrofia muscular.'
+);
+
+criaCartao(
+    'Exercícios',
+    'Como executar corretamente um agachamento?',
+    'Mantenha os pés na largura dos ombros, costas retas, desça como se fosse sentar numa cadeira, joelhos alinhados com os pés, e volte à posição inicial.'
+);
+
+criaCartao(
+    'Descanso',
+    'Quantas horas de sono são ideais para a recuperação muscular?',
+    '7-9 horas de sono por noite são essenciais para uma ótima recuperação e crescimento muscular.'
+);
+
+criaCartao(
+    'Suplementação',
+    'Quando é o melhor momento para tomar whey protein?',
+    'O whey protein pode ser tomado em qualquer momento, mas é especialmente eficiente logo após o treino para maximizar a síntese proteica.'
+);
+
+criaCartao(
+    'Exercícios',
+    'Qual a diferença entre treino de força e treino de hipertrofia?',
+    'Treino de força foca em cargas mais pesadas com poucas repetições (1-6), enquanto hipertrofia usa cargas moderadas com mais repetições (8-12).'
+);
+
+criaCartao(
+    'Alimentação',
+    'O que comer antes do treino?',
+    'Uma combinação de carboidratos complexos e proteínas magras 1-2 horas antes do treino fornece energia sustentada.'
+);
+
+criaCartao(
+    'Técnica',
+    'O que é o princípio de sobrecarga progressiva?',
+    'É a gradual aumento da tensão muscular durante o treino, aumentando peso, repetições ou séries ao longo do tempo.'
+);
+
+criaCartao(
+    'Recuperação',
+    'Por que é importante alongar após o treino?',
+    'Alongamentos ajudam a melhorar a flexibilidade, reduzir dor muscular e acelerar a recuperação.'
+);
+
+criaCartao(
+    'Periodização',
+    'O que é um treino ABC?',
+    'É uma divisão de treino onde: A) Peito/Tríceps, B) Costas/Bíceps, C) Pernas/Ombros, permitindo maior foco em cada grupo muscular.'
+);
